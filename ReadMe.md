@@ -44,7 +44,7 @@ I'm a passionate MERN Stack developer with a love for building modern web applic
 | Project Name        | Live Demo                                      
 |---------------------|------------------------------------------------
 | E-Shop              | [Live Site](https://eshop-hazel-nine.vercel.app)      
-| Portfolio Website   | [Live Site](https://abdurrahmanfahim.github.io/Abdur-Rahman-Fahim_Personal-Porfolio/resume.html))    
+| Portfolio Website   | [Live Site](https://abdurrahmanfahim.github.io/Abdur-Rahman-Fahim_Personal-Porfolio/resume.html)
 | Ilm-e Deen Academy - IDA  | [Live Site](https://ilmedeenacademy.com/)        
 
 ---
