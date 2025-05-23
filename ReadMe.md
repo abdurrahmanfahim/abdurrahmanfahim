@@ -19,7 +19,7 @@ I'm a passionate MERN Stack developer with a love for building modern web applic
   <a href="https://www.linkedin.com/in/arfahimdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@abdurrahmanfahim"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
   <a href="https://pinterest.com/arfahimdev"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
-  <a href="https://quora.com/profile/abdurrahmanfahim"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
+  <a href="https://bn.quora.com/profile/Abdur-Rahman-Fahim-2"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
 </p>
 
 ---
