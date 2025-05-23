@@ -1,95 +1,147 @@
-<h1 align="center">Hi, I'm Abdur Rahman Fahim 👋</h1>
-<p align="center">
-  <b>MERN Stack Web Developer | Designer | Tech Enthusiast</b>
-</p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "JavaScript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading the way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C238%20hrs%2045%20mins-blue)
 
-## 🚀 About Me
+![Profile Views](http://img.shields.io/badge/Profile%20Views-732-blue)
 
-I'm a passionate MERN Stack developer with a love for building modern web applications and creative digital experiences. I enjoy working with JavaScript, React, Node.js, and MongoDB, and I'm always eager to learn new technologies and tools.
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
----
+**🐱 My GitHub Data** 
 
-## 🌐 Connect with Me
+> 📦 260.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 189 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-<p align="center">
-  <a href="https://facebook.com/ar.fahim.dev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/ar.fahim.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arfahimdev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@abdurrahmanfahim"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-  <a href="https://pinterest.com/arfahimdev"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
-  <a href="https://bn.quora.com/profile/Abdur-Rahman-Fahim-2"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
-</p>
+```text
+🌞 Morning                1516 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌆 Daytime                3413 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
+🌃 Evening                2393 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌙 Night                  1102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+```
+📅 **I'm Most Productive on Sunday** 
 
----
+```text
+Monday                   957 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Tuesday                  1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Wednesday                1373 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   814 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Saturday                 1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Sunday                   1981 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+```
 
-## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+📊 **This Week I Spent My Time On** 
 
----
+```text
+🕑︎ Time Zone: Asia/Dubai
 
-## 🚀 Featured Projects
+💬 Programming Languages: 
+TypeScript               44 hrs 15 mins      ███████████████████████░░   93.28 % 
+JavaScript               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+SCSS                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+.env file                30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
-<table>
-  <tr>
-    <td>
-      <b>E-Shop</b><br>
-      <a href="https://eshop-hazel-nine.vercel.app" target="_blank">Live Demo</a>
-      <br>
-      <sub>Modern e-commerce platform built with React and Node.js.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Portfolio Website</b><br>
-      <a href="https://abdurrahmanfahim.github.io/Abdur-Rahman-Fahim_Personal-Porfolio/resume.html" target="_blank">Live Demo</a>
-      <br>
-      <sub>Personal portfolio showcasing my skills, projects, and resume.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Ilm-e Deen Academy - IDA</b><br>
-      <a href="https://ilmedeenacademy.com/" target="_blank">Live Demo</a>
-      <br>
-      <sub>Educational platform for online Islamic learning.</sub>
-    </td>
-  </tr>
-</table>
+🔥 Editors: 
+WebStorm                 47 hrs 26 mins      █████████████████████████   100.00 % 
 
----
+💻 Operating System: 
+Mac                      47 hrs 26 mins      █████████████████████████   100.00 % 
+```
 
-## 📈 GitHub Stats
+**I Mostly Code in JavaScript** 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmanfahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanfahim&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanfahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+```text
+JavaScript               33 repos            ██████████░░░░░░░░░░░░░░░   41.77 % 
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+```
 
----
 
-## 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdurrahmanfahim&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
----
+ Last Updated on 23/05/2025 00:35:33 UTC
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdurrahmanfahim&icon=0&color=0" alt="Profile Visits" />
-</p>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
